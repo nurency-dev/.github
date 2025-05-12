@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://nurency.com/">
-    <img src="https://nurency.com/wp-content/uploads/2024/12/Site-Logo-1.svg" alt="Nurency Logo" width="200"/>
+    <img src="https://nurency.com/wp-content/uploads/2024/12/Nurency-Logo-Light.png" alt="Nurency Logo" width="200"/>
   </a>
 </p>
 
